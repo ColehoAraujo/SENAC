@@ -2,8 +2,8 @@
 sol = input("Você tem sol? (sim/não): ")
 money = input("Você tem dinheiro? (sim/não): ")
 
-# Determina o papel com base nas respostas, assumindo que o usuário insira exatamente "sim" ou "não"
+# Determina com base nas respostas
 role = "Praia" if sol == "sim" and money == "sim" else "Netflix"
 
-# Exibe o resultado
+# Printa o resultado
 print("O seu rolê é:", role)
