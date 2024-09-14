@@ -1,4 +1,4 @@
-# Pergunta ao usuário sobre sol e dinheiro para possibilidade ir pra praia ou ficar em casa
+# Pergunta ao usuário sobre sol e dinheiro, utilizando o and.
 sol = input("Você tem sol? (sim/não): ")
 money = input("Você tem dinheiro? (sim/não): ")
 
